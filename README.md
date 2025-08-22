@@ -1,70 +1,102 @@
-
-# 💫 About Me  
-👋 Hi, I’m **Sameer Nandesh Wanjari**, a **B.Tech + M.Tech student in Engineering Physics at IIT BHU (2021–2026)**, passionate about **Machine Learning, Deep Learning, and AI-driven solutions**.  
-🔍 I love working on **data-driven problems**, from building predictive models to creating impactful dashboards.  
-✨ Exploring **LLMs, Generative AI, NLP, and Computer Vision**.  
-
----
-
-## 🚀 Skills & Tools  
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-76B900?logoColor=white)  
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)  
+<!-- Typing SVG Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F70000&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Sameer+Nandesh+Wanjari;AI+%7C+ML+%7C+DL+Enthusiast;NLP+%7C+Computer+Vision;Data+Analytics+%7C+Generative+AI;Always+learning+new+things!">
+</p>
 
 ---
 
-## 📌 Featured Projects  
+<h1 align="center"> 💫 About Me </h1>
 
-- 🧬 **Early Skin Disease Detection**  
-   Built a CNN with MobileNet achieving **97% accuracy** on multi-class classification of skin diseases.  
-
-- 📖 **NLP Text Classification for Philosophical Text**  
-   Developed an **LSTM + Word2Vec model** with **80% accuracy** across 10 categories.  
-
-- 🚚 **Predicting Delivery Order Cancellations**  
-   Built models on **470K+ orders** with AUC-ROC up to **0.83**, handling **imbalanced data** effectively.  
-
-🔗 Explore all projects in my [**repositories**](https://github.com/sameerwork826).  
+<p align="center">
+🎓 B.Tech + M.Tech (Engineering Physics) @ IIT BHU (2021–2026) <br>
+🤖 Passionate about <b>Machine Learning, Deep Learning, NLP & Generative AI</b> <br>
+📊 Love solving <b>data-driven problems</b> & creating impactful dashboards <br>
+🌱 Exploring <b>LLMs, Transformers & Computer Vision</b> <br>
+⚡ Fun fact: I enjoy mentoring students & solving real-world problems with AI
+</p>
 
 ---
 
-## 💼 Experience  
+<h1 align="center"> 🚀 Skills & Tools </h1>
 
-- **Data Analyst Intern @ KRIV Technologies (May–Jun 2024)**  
-  - Performed EDA, built statistical models, and designed **Power BI dashboards** for business insights.  
-
-- **Leadership Roles**  
-  - Public Relations Head – FMC Weekend (IIT BHU)  
-  - Marketing Head – Jigyasa (IIT BHU)  
+<p align="center">
+  <!-- Programming -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="55px"/>
+  
+  <!-- ML & AI -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45px"/>
+  
+  <!-- Data & BI -->
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="48px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45px"/>
+  
+  <!-- Version Control -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45px"/>
+</p>
 
 ---
 
-## 🏆 Achievements  
+<h1 align="center"> 📌 Featured Projects </h1>
 
-✔ Subject Matter Expert – Physics (Chegg)  
-✔ Mentored school students in academics & career planning  
-✔ Active in education, analytics, and solving real-world problems  
-
----
-
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameerwork826&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sameerwork826&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=sameerwork826&theme=radical)  
+<p align="center">
+  🧬 <b>Early Skin Disease Detection</b> – CNN with MobileNet (97% accuracy) <br>
+  📖 <b>NLP Text Classification</b> – LSTM + Word2Vec (80% accuracy) <br>
+  🚚 <b>Predicting Delivery Order Cancellations</b> – AUC-ROC 0.83 on 470K+ orders <br><br>
+  🔗 Check them out in my <a href="https://github.com/sameerwork826"><b>repositories</b></a>
+</p>
 
 ---
 
-## 🌐 Connect With Me  
+<h1 align="center"> 💼 Experience </h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/sameerwanjari826)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/sameerwork826)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sameerwork826@gmail.com)  
+<p align="center">
+<b>Data Analyst Intern @ KRIV Technologies (May–Jun 2024)</b> <br>
+- EDA, statistical modeling & Power BI dashboards <br><br>
+<b>Leadership Roles</b> <br>
+- Public Relations Head – FMC Weekend (IIT BHU) <br>
+- Marketing Head – Jigyasa (IIT BHU)
+</p>
+
+---
+
+<h1 align="center"> 🏆 Achievements </h1>
+
+<p align="center">
+✔ Subject Matter Expert – Physics (Chegg) <br>
+✔ Mentored school students in academics & career planning <br>
+✔ Passionate about <b>education & real-world AI solutions</b>
+</p>
+
+---
+
+<h1 align="center"> 📊 GitHub Stats </h1>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sameerwork826&show_icons=true&theme=radical" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameerwork826&layout=compact&theme=radical" height="170px"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sameerwork826&theme=radical" height="170px"/>
+</p>
+
+---
+
+<h1 align="center"> 🌐 Connect With Me </h1>
+
+<p align="center">
+  <a href="https://linkedin.com/in/sameerwanjari826"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" height="30"></a>
+  <a href="https://github.com/sameerwork826"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" height="30"></a>
+  <a href="mailto:sameerwork826@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="30"></a>
+</p>
+
+---
+
+<p align="center"> ✨ <i>"Keep learning, keep building, keep inspiring!"</i> ✨ </p>
