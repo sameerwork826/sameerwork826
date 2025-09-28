@@ -1,104 +1,85 @@
-<!-- Typing SVG Header -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F70000&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Sameer+Nandesh+Wanjari;AI+%7C+ML+%7C+DL+Enthusiast;NLP+%7C+Computer+Vision;Data+Analytics+%7C+Generative+AI;Always+learning+new+things!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=4C8EDA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sameer+%F0%9F%91%8B;Data+Scientist+%7C+Analyst+%7C+AI+Enthusiast;Generative+AI+%26+Agentic+AI+Developer;Turning+Data+into+Impact+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
 
-# 💫 About Me  
-Hi, I’m **Sameer Nandesh Wanjari** 👋  
+# 👋 About Me  
 
-- 🎓 Pursuing **B.Tech + M.Tech in Engineering Physics** at **IIT BHU (2021–2026)**  
-- 🤖 Interested in **Machine Learning, Deep Learning, NLP, Computer Vision, and Generative AI**  
-- 📊 Skilled at turning raw data into **actionable insights** using Python, SQL & BI tools  
-- 🌱 Currently diving deep into **Transformers, LLMs, and advanced AI architectures**  
-- ✨ Love **collaborating, mentoring, and solving real-world problems with AI**  
+I’m an **IDD Physics student at IIT (BHU), Varanasi (’26)** passionate about **Data Science, ML, and Agentic AI**.  
+I love working at the intersection of **ML models + real-world business impact**, from **customer segmentation** to **LLM-powered assistants**.  
+
+- 🎯 **Target Roles**: Data Scientist • Data Analyst • Product Analyst  
+- 📚 **Current Focus**: Agentic AI, RAG pipelines, advanced clustering  
+- 🏆 **Achievements**: Meesho DICE Top 20 (6000+ teams), Winner of DataSciQuest’24  
 
 ---
 
-## 🚀 Skills & Tools  
+# 🛠️ Tech Stack  
 
-**Languages & Core**  
-- 🐍 Python | ⚡ C++20 | 🗄️ SQL  
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 
-**Machine Learning & AI**  
-- 🔥 PyTorch, TensorFlow, Scikit-learn  
-- 📊 Data Science with Pandas, NumPy, Seaborn, Matplotlib  
-- 🧠 NLP (NLTK, SpaCy, Word2Vec, LSTMs, BERT basics)  
-- 🎨 Computer Vision (CNNs, Transfer Learning)  
+**ML / DL**  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6F00?style=flat&logo=python&logoColor=white)  
+![LightGBM](https://img.shields.io/badge/LightGBM-0073C7?style=flat&logo=python&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
-**Data & Business Analytics**  
-- 📈 Power BI | 📊 Excel (Intermediate)  
+**GenAI / Agentic AI**  
+![LangChain](https://img.shields.io/badge/LangChain-1DA1F2?style=flat&logo=chainlink&logoColor=white)  
+![Transformers](https://img.shields.io/badge/Transformers-FFCA28?style=flat&logo=huggingface&logoColor=black)  
+![CrewAI](https://img.shields.io/badge/CrewAI-663399?style=flat&logo=rocket&logoColor=white)  
+![Autogen](https://img.shields.io/badge/Autogen-FF4088?style=flat&logo=ai&logoColor=white)
+
+**Data & Viz**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-4E9BCD?style=flat&logo=python&logoColor=white)
 
 **Dev Tools**  
-- 🖥️ VS Code, Jupyter, Colab, Anaconda  
-- 🔧 Git & GitHub (Version Control)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
-## 📌 Featured Projects  
+# 📁 Featured Projects  
 
-### 🧬 Early Skin Disease Detection  
-- Built a **CNN (MobileNet, 88/91 layers)** to classify skin diseases into 7 categories  
-- Achieved **97% accuracy** with custom preprocessing & data augmentation  
+- **💼 CorpCompass — Company Comparison Chatbot**  
+  LLaMA 7B + ChromaDB embeddings for 100K+ records; 85% query accuracy across 50+ test prompts.  
+  🔗 [Repo](https://github.com/your-username/corpcompass)
 
-### 📖 NLP Text Classification (Philosophical Text)  
-- Developed **LSTM + Word2Vec model** with **80% accuracy** across 10 classes  
-- Performed bigram analysis, vector modeling, and ideological tendency exploration  
+- **🩺 Skin Cancer Detection (ISIC Challenge 2024)**  
+  Ensemble (ResNet18 + XGBoost/LightGBM/CatBoost) improved partial AUC-ROC from 0.144 → 0.167.  
+  🔗 [Repo](https://github.com/your-username/skin-cancer-detection)
 
-### 🚚 Predicting Delivery Order Cancellations  
-- Modeled **470K+ orders (imbalanced dataset 3%)** using class-weighted models  
-- Reached **AUC-ROC 0.83**, generated **sub-reports** on riders & order patterns  
+- **💳 Credit Card Fraud Detection**  
+  End-to-end pipeline; GridSearch optimization; Recall **94%**; compared models via F1, ROC, CM.  
+  🔗 [Repo](https://github.com/your-username/credit-fraud-detection)
 
-👉 Explore more projects in my [**repositories**](https://github.com/sameerwork826)  
-
----
-
-## 💼 Experience  
-
-**Data Analyst Intern – KRIV Technologies (May–Jun 2024)**  
-- Conducted **EDA, trend discovery, statistical modeling**  
-- Designed **interactive Power BI dashboards** for stakeholders  
-
-**Leadership Roles**  
-- Public Relations Head – **FMC Weekend (IIT BHU)**  
-- Marketing Head – **Jigyasa (IIT BHU)**  
+- **👥 Customer Segmentation & Campaign Targeting**  
+  300K+ rows processed; PCA + K-Means + t-SNE; derived clusters for targeted promotions.  
+  🔗 [Repo](https://github.com/your-username/customer-segmentation)
 
 ---
 
-## 🏆 Achievements  
+# 📊 GitHub Stats  
 
-- ✔ Subject Matter Expert – Physics (Chegg)  
-- ✔ Mentored students in **academics & career planning**  
-- ✔ Grew social media engagement for college fests by **1000+ followers**  
-- ✔ Passionate about **education, analytics, and community building**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
 
 ---
 
-## 🌱 Currently Learning  
-- 🧩 Transformers & Large Language Models  
-- 🎨 Generative AI (Text-to-Image, Prompt Engineering)  
-- ⚡ Advanced Data Structures & Algorithms for AI systems  
+# 📬 Connect with Me  
+
+📧 **sameerwanjari826@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
+📊 [Kaggle](https://www.kaggle.com/your-kaggle)  
+🌍 [Portfolio](https://your-portfolio.com)
 
 ---
-
-## ⚡ How I Work  
-- 🔍 **Data-first mindset**: I believe every number tells a story  
-- 🛠️ **Tools-driven**: Automating workflows with Python, SQL & BI tools  
-- 🤝 **Collaboration**: Thrive in teamwork & leadership roles  
-- 💡 **Curiosity**: Constantly exploring new AI/ML techniques  
-
----
-
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameerwork826&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sameerwork826&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=sameerwork826&theme=radical)  
-
----
-
-## 🌐 Connect With Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/sameerwanjari826)  
-[![GitHub](https:)]()
