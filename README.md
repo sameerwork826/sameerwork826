@@ -52,19 +52,17 @@ I love working at the intersection of **ML models + real-world business impact**
 
 - **💼 CorpCompass — Company Comparison Chatbot**  
   LLaMA 7B + ChromaDB embeddings for 100K+ records; 85% query accuracy across 50+ test prompts.  
-  🔗 [Repo](https://github.com/sameerwork826/corpcompass)
+  🔗 [Repo](https://github.com/sameerwork826/corp-compass)
 
 - **🩺 Skin Cancer Detection (ISIC Challenge 2024)**  
   Ensemble (ResNet18 + XGBoost/LightGBM/CatBoost) improved partial AUC-ROC from 0.144 → 0.167.  
-  🔗 [Repo](https://github.com/sameerwork826/skin-cancer-cnn-mlstack)
+  🔗 [Repo](https://github.com/sameerwork826/skin_cancer_cnn_ml_stack)
 
 - **💳 Credit Card Fraud Detection**  
   End-to-end pipeline; GridSearch optimization; Recall **94%**; compared models via F1, ROC, CM.  
   🔗 [Repo](https://github.com/sameerwork826/credit-card-fraud-detection)
 
-- **👥 Customer Segmentation & Campaign Targeting**  
-  300K+ rows processed; PCA + K-Means + t-SNE; derived clusters for targeted promotions.  
-  🔗 [Repo](https://github.com/sameerwork826/customer-segmentation)
+
 
 ---
 
