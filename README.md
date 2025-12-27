@@ -52,19 +52,19 @@ I love working at the intersection of **ML models + real-world business impact**
 
 - **💼 CorpCompass — Company Comparison Chatbot**  
   LLaMA 7B + ChromaDB embeddings for 100K+ records; 85% query accuracy across 50+ test prompts.  
-  🔗 [Repo](https://github.com/your-username/corpcompass)
+  🔗 [Repo](https://github.com/sameerwork826/corpcompass)
 
 - **🩺 Skin Cancer Detection (ISIC Challenge 2024)**  
   Ensemble (ResNet18 + XGBoost/LightGBM/CatBoost) improved partial AUC-ROC from 0.144 → 0.167.  
-  🔗 [Repo](https://github.com/your-username/skin-cancer-detection)
+  🔗 [Repo](https://github.com/sameerwork826/skin-cancer-cnn-mlstack)
 
 - **💳 Credit Card Fraud Detection**  
   End-to-end pipeline; GridSearch optimization; Recall **94%**; compared models via F1, ROC, CM.  
-  🔗 [Repo](https://github.com/your-username/credit-fraud-detection)
+  🔗 [Repo](https://github.com/sameerwork826/credit-card-fraud-detection)
 
 - **👥 Customer Segmentation & Campaign Targeting**  
   300K+ rows processed; PCA + K-Means + t-SNE; derived clusters for targeted promotions.  
-  🔗 [Repo](https://github.com/your-username/customer-segmentation)
+  🔗 [Repo](https://github.com/sameerwork826/customer-segmentation)
 
 ---
 
@@ -78,8 +78,7 @@ I love working at the intersection of **ML models + real-world business impact**
 # 📬 Connect with Me  
 
 📧 **sameerwanjari826@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
-📊 [Kaggle](https://www.kaggle.com/your-kaggle)  
-🌍 [Portfolio](https://your-portfolio.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/sameerwanjari)  
+🌍 [Portfolio](https://sameerwanjari826.notion.site/Home-Page-2a8ed7c7eaac812fb8cddc4f2cc949a7)
 
 ---
